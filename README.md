@@ -13,7 +13,7 @@ This is an intention classifier that was learned using [3i4k dataset to identify
 ## Installation
 
 - clone
-- `pip install -r requirement.txt`
+- `pip install -r requirements.txt`
 - [download model file](https://drive.google.com/file/d/1Cs02CwBrnkCTfTHPyj2pJwOZLfhmmMiE/view?usp=sharing)
 - copy into `/model/intent_distilkobert.ckpt`
 
